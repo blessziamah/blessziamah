@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blessziamah
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project involving coding
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me email: tziamah1@gmail.com
 
 <!---
