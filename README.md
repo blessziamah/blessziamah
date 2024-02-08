@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blessziamah" alt="blessziamah" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/justcodez" target="blank"><img src="https://img.shields.io/twitter/follow/justcodez?logo=twitter&style=for-the-badge" alt="justcodez" /></a> </p>
 
 - 🔭 Proficiently Skilled in - (Web Application Development) Django, NodeJS, ReactJS, ExpressJS, REST API
 
